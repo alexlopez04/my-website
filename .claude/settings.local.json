@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc \"C:\\\\Users\\\\axlop\\\\OneDrive - Georgia Institute of Technology\\\\Attachments\\\\# Lopez Alexander - Spring 2026.docx\" -t plain)",
+      "Bash(python3 -c ' *)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git push *)"
+    ]
+  }
+}
